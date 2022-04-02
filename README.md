@@ -41,20 +41,25 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](http://g.recordit.co/uE36QX2ECW.gif)
-![](gif2-link-here)
+![](http://g.recordit.co/SU8QIm9wIH.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 JavaScript for beginners:             
-https://www.youtube.com/watch?v=5qlbbpvp2Y4&t=26117s                                     
+https://www.youtube.com/watch?v=5qlbbpvp2Y4&t=26117s  
+
 Dynamic programming:
-https://www.youtube.com/watch?v=oBt53YbR9Kk&t=10s                                          
+https://www.youtube.com/watch?v=oBt53YbR9Kk&t=10s
+
 Binary Trees:                              
-https://www.youtube.com/watch?v=fAAZixBzIAI&t=2758s                                         
+https://www.youtube.com/watch?v=fAAZixBzIAI&t=2758s  
+
 Graphs:                                             
-https://www.youtube.com/watch?v=2_Uuixtc5i0&t=3s                                                    
+https://www.youtube.com/watch?v=2_Uuixtc5i0&t=3s   
+
 I used a plethora of videos to teach myself about material so that i could implement them into my programs. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
