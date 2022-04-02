@@ -77,7 +77,7 @@ If I had a few more hours to work on this project, I would likely try my best to
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/15707b50a07045f393fbc65b78b8699b)
 
 
 ## License
